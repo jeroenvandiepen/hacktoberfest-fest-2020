@@ -1,10 +1,10 @@
-#Systeem informatie
+# Systeem informatie
 
 -   OS: Manjaro Linux v5.19.5 (Plasma KDE)
 -   IDE: Visual Studio code
 -   NodeJS v14.11.0
 
-#Tests
+# Fouten
 
 -   Ik liep aan tegen de fout:
 
@@ -20,6 +20,7 @@ This relative module was not found:
 
 Deze is opgelost door in de modules npm run build uit te voeren in de modules
 
+# Misschien naar kijken
 -   Opzetten ging eigenlijk wel goed, liep maar tegen 2 fouten aan maar misschien komt dat omdat ik NodeJS en al eens een VueJS project heb opgezet
 
 -   Hoe koppelen we de databases aan elkaar dat iedereen vergelijkebare data heeft?
