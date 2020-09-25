@@ -1,4 +1,4 @@
-# Het grote "Indicium Hacktoberfest festY"
+# Het grote "Indicium Hacktoberfest fest"
 
 ![Visual poster for this event](https://media.discordapp.net/attachments/748882677058240524/750353883385036913/hacktoberfest-meta-img.png?width=1136&height=852 "Visual poster for this event")
 
