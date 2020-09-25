@@ -26,5 +26,6 @@ Deze is opgelost door in de modules npm run build uit te voeren in de modules
 -   Hoe koppelen we de databases aan elkaar dat iedereen vergelijkebare data heeft?
 -   Welke gegevens slaan we op en welke niet (Kan tijdens overleg)
 -   Modules misschien wat kort uitgelegd denk wat meer over vertellen hoe ze werken (Kan altijd nog tijdens overleg)
+-   Soort GitHub cursus doen via bellen, want snap er nog niet zo heel veel van hoe ik met VS-Code kan verbinden bijvoorbeeld
 
 -   Verder lekker werk Noud! Heb er heel veel zin in en kijk er naar uit om met dit project aan de slag te gaan
